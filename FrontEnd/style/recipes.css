@@ -1,0 +1,20 @@
+.btn-sq-lg {
+  width: 300px ;
+  height: 450px;
+  color: black;	
+  margin-right: 5%;
+  margin-bottom: 2%;
+  border-color: #3aaf28;
+  font-family:"helvetica";
+  font-weight: bold;
+}
+
+.btn {
+	background: no-repeat;
+	background-position: 50% 45%;
+}
+
+#rec1 {
+	background-image: url("../media/recipe.jpg");
+	background-size: 75%;
+}

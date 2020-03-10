@@ -1,0 +1,38 @@
+.btn-sq-lg {
+  width: 200px ;
+  height: 200px ;
+  background-size: 200px 200px;
+  color: black;	
+  margin-right: 5%;
+  border-color: #3aaf28;
+  font-family:"helvetica";
+  font-weight: bold;
+}
+
+.container {
+	margin-left: 21%;
+}
+
+#homeText {
+	text-align: center;
+	margin-top: 5%;
+	margin-left: -10%;
+	margin-right: -5%;
+	word-wrap: break-word;
+}
+
+#meat {
+  background-image: url("../media/meat.png");
+}
+
+#grain {
+  background-image: url("../media/grain.png");
+}
+
+#fruit {
+  background-image: url("../media/fruit.png");
+}
+
+#canned {
+  background-image: url("../media/canned.png");
+}   

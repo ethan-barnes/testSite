@@ -1,0 +1,15 @@
+.jumbotron {
+	margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #3aaf28;
+}
+
+.navbar-custom {
+	background-color: white;
+	margin: auto;
+}
+
+.navbar-nav {
+	font-weight: bold;
+}

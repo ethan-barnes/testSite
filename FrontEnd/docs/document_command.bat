@@ -1,0 +1,1 @@
+cmd /k documentation build C:/Users/Ethan/Documents/GitHub/project-2019-2020-team-05/Software/FrontEnd/scripts/** -f html -o docs
